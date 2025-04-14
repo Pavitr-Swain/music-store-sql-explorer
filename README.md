@@ -3,6 +3,7 @@
 ## Project info
 
 **URL**: https://lovable.dev/projects/0b1689dd-8bb8-4b40-8368-fbc9b15ac3c7
+Diployed Link(Preview):- https://preview--music-store-sql-explorer.lovable.app/
 
 ## How can I edit this code?
 
